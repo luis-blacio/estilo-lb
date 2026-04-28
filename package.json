@@ -1,0 +1,30 @@
+{
+  "name": "estilo-lb",
+  "version": "1.0.0",
+  "description": "Especificación de estilo de código basada en Desarrollo Dirigido por Especificaciones (SDD)",
+  "keywords": [
+    "code-style",
+    "specification",
+    "sdd",
+    "coding-standards",
+    "estilo-lb",
+    "luis-blacio"
+  ],
+  "author": "Luis Blacio",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luis-blacio/estilo-lb.git"
+  },
+  "homepage": "https://github.com/luis-blacio/estilo-lb",
+  "bugs": {
+    "url": "https://github.com/luis-blacio/estilo-lb/issues"
+  },
+  "files": [
+    "README.md",
+    "LICENSE",
+    "Estilo_LB.instructions.md",
+    "docs/",
+    "examples/"
+  ]
+}
